@@ -1,0 +1,47 @@
+body,html {
+    background:url(papers.co-ob93-apple-macbook-color-dark-nature-26-wallpaper.jpg) no-repeat center center fixed; ;
+    font-family: "Fuzzy Bubbles";
+    width:100%;
+    height:100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.container-fluid {
+    background-color: rgb(166, 157, 157);
+    padding: 8px;
+}
+
+.btn1 {
+    border: 2px solid rgb(91, 91, 168);
+    background-color:rgb(68, 206, 219);
+}
+
+h1 {
+    font-size: 1.5em;
+    color: #e47966;
+    font-family: "Fasthand", open sans-serif;
+}
+
+.btn2 {
+    border-radius: 400px;
+    font-weight: 700;
+    max-width: 120px;
+}
+
+.btn-primary {
+    background: linear-gradient(#e66465, #5157a1);
+    box-shadow: 3px 3px 5px #c8a1a1;
+    border-width:2px;
+}
+
+.btn-primary:hover {
+    background: linear-gradient(rgb(198, 57, 57), rgb(219, 123, 63));
+    box-shadow: 3px 3px 5px #9d7d7d;;
+}
+
+.buffer {
+    height: 10rem;
+}
